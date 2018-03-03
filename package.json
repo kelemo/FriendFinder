@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/kelemo/FriendFinder/issues"
   },
-  "homepage": "https://github.com/kelemo/FriendFinder#readme"
+  "homepage": "https://github.com/kelemo/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }

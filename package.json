@@ -1,0 +1,25 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "FriendFinderApp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelemo/FriendFinder.git"
+  },
+  "keywords": [
+    "FriendFinder",
+    "FriendMatch",
+    "MatchMaker"
+  ],
+  "author": "Kadiro E",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelemo/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/kelemo/FriendFinder#readme"
+}
